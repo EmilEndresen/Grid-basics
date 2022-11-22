@@ -45,6 +45,12 @@ h1 {
     }
 }
 
+@media (min-width: 1000px) {
+    .box {
+        font-size: 2rem;
+    }
+}
+
 .one {
     /* grid-column-start: 1;
     grid-column-end: 3; */
